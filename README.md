@@ -1,3 +1,3 @@
 # Repositorio utn-sistemasOperativos
  
-Material de la materia Sistemas operativos | UTN - FRLP 
+Material realizado en la materia Sistemas operativos | UTN - FRLP 
